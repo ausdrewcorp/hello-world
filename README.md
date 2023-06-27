@@ -6,3 +6,6 @@ Line 3
 Line 6
   Line 7 changed
 Line 8
+
+
+big news
